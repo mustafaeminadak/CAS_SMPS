@@ -1,0 +1,10 @@
+Change Component Footprint: Designator=D4 Old Footprint=DIODE New Footprint=DIODE2
+Change Component Comment : Designator=D4 Old Comment=1N5822 New Comment=DIODE
+Change component parameters: Designator = "D4" ("D4"); Footprint = "DIODE"; UniqueID = "\DXRXBVTO" ("\DXRXBVTO")
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Sangdest Microelectronics"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "S1G"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Pricing 1"; Value = "1=0,13, 10=0,12, 100=0,0655, 500=0,04034, 1000=0,0275, 2000=0,02338 (USD)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RoHS"; Value = "No"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Stock 1"; Value = "552177"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "1655-S1GCT-ND"; VariantName = "[No Variations]"
